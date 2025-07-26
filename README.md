@@ -1,5 +1,5 @@
 # 5220501_Sneha_JS
 
-![My Certificate](SDLC/agile for beginners.png)
+![My Certificate](SDLC/agile_for_beginners.png)
 
-![My Certificate1](GIT/GIT for beginners.png)
+![My Certificate1](GIT/GIT_for_beginners.png)
