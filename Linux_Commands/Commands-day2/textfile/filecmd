@@ -1,0 +1,188 @@
+echo "Creating file demo.txt..."
+touch demo.txt
+
+echo "Writing to file..."
+echo "Hello Ubuntu!" > demo.txt
+
+echo "Appending text..."
+echo "Appended line." >> demo.txt
+
+echo "Showing contents:"
+cat demo.txt
+
+echo "File details:"
+ls -l demo.txt
+
+echo "Copying to backup..."
+cp demo.txt backup.txt
+
+echo "All done!"
+echo "Creating file demo.txt..."
+touch demo.txt
+
+echo "Writing to file..."
+echo "Hello Ubuntu!" > demo.txt
+
+echo "Appending text..."
+echo "Appended line." >> demo.txt
+
+echo "Showing contents:"
+cat demo.txt
+
+echo "File details:"
+ls -l demo.txt
+
+echo "Copying to backup..."
+cp demo.txt backup.txt
+
+echo "All done!"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

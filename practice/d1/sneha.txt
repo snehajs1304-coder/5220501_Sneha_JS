@@ -1,0 +1,6 @@
+name comapany salary
+sneha : ltts : 30000
+harshi : cap : 30000
+hampi : lulu : 1l
+
+

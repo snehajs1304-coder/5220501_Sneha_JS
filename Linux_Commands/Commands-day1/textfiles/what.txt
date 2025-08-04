@@ -1,0 +1,1 @@
+echo (1)             - display a line of text

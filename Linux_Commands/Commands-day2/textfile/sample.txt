@@ -1,0 +1,25 @@
+echo "hello hii" > ex.txt
+
+echo "this is sneha js" >> ex.txt
+
+echo "Creating file ex.txt..."
+touch ex.txt
+
+echo "Writing to file..."
+echo "Hello Ubuntu!" > ex.txt
+
+echo "Appending text..."
+echo "Appended line." >> ex.txt
+
+echo "Showing contents:"
+cat ex.txt
+
+echo "File details:"
+ls -l ex.txt
+
+echo "Copying to backup..."
+cp ex.txt backup.txt
+
+echo "All done!"
+
+time:12:30
